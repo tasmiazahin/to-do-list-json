@@ -1,0 +1,26 @@
+
+[
+    {
+        "id": 1,
+        "name": "Workshop 7",
+        "peerDiscussion": true,
+        "submitted": false,
+        "completed": false
+    },
+    {
+        "id": 2,
+        "name": "Create CV page",
+        "peerDiascussion": true,
+        "submitted": true,
+        "completed": true
+    },
+
+    {
+        "id": 3,
+        "name": "Dynamic site",
+        "peerDiscussion": true,
+        "submitted": true,
+        "completed": false
+    }
+    
+]

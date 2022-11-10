@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(196, 234, 247);
+    box-sizing: border-box;
+  }
+  h1{
+    font-size: 30px;
+    text-align: center;
+    padding: 15px 0px;
+  }
+      #app  .card{
+      background-color: white;
+      width: 80%;
+      height: 170px;
+      margin: auto;
+      padding: 20px ;
+      
+  }
+  
+  #app  .card ul li{
+    color: rgb(4, 4, 4);
+  }
+  
